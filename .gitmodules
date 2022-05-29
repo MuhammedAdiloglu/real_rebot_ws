@@ -1,0 +1,6 @@
+[submodule "zed-ros-wrapper/zed-ros-interfaces"]
+	path = zed-ros-wrapper/zed-ros-interfaces
+	url = " https://github.com/MuhammedAdiloglu/real_rebot_ws.git"
+[submodule "zed-ros-wrapper"]
+	path = zed-ros-wrapper
+	url = https://github.com/MuhammedAdiloglu/real_rebot_ws.git
